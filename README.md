@@ -1,4 +1,4 @@
-# SKA School Management System
+# EduLedger - A School Management System
 
 A comprehensive, full-stack application designed to streamline school administration, encompassing student identity management, academic cycles, and complex financial tracking. 
 
